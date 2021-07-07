@@ -1,4 +1,4 @@
-# Gradient Scaffold
+# Scaffold Gradient Background
 A fully customizable scaffold widget, but which can take a gradient as its background.
 ## Screenshots
 ![](https://i.ibb.co/Nt5tKcJ/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-20-52-32.png)
@@ -14,17 +14,17 @@ This package is for setting a gradient as background for a scaffold. You have no
 Add this package to pubspec.yaml:
 ```yaml
 dependencies:
-  gradient_scaffold: ^1.0.0
+  scaffold_gradient_background: ^1.0.0
 ```
 
 Import the package in the class in which you want to use the scaffold with gradient:
 ```dart
-import 'package:gradient_scaffold/gradient_scaffold.dart';
+import 'package:scaffold_gradient_background/scaffold_gradient_background.dart';
 ```
 
 Now create a GradientScaffold widget and customize it to your liking!
 ```dart
-GradientScaffold(
+ScaffoldGradientBackground(
       gradient: LinearGradient(
         begin: Alignment.bottomLeft,
         end: Alignment.topRight,
@@ -51,6 +51,6 @@ That's about it. You don't need to do much more and as you can see, it works per
 
 
 ## Personal links
-[GitHub Repository](https://github.com/Tomic-Riedel/gradient_scaffold)
+[GitHub Repository](https://github.com/Tomic-Riedel/scaffold_gradient_background)
 [Twitter](https://twitter.com/TomicRiedel)
 [Medium](https://tomicriedel.medium.com/)
