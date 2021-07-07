@@ -12,7 +12,7 @@ This package is for setting a gradient as background for a scaffold. You have no
 ### How to create a simple scaffold with gradient:
 
 Add this package to pubspec.yaml:
-```dart
+```yaml
 dependencies:
   gradient_scaffold: ^1.0.0
 ```
