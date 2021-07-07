@@ -1,9 +1,9 @@
 # Gradient Scaffold
 A fully customizable scaffold widget, but which can take a gradient as its background.
 ## Screenshots
-<img src="https://i.ibb.co/Nt5tKcJ/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-20-52-32.png" width: "414" height="896">
+[](https://i.ibb.co/Nt5tKcJ/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-20-52-32.png)
 
-<img src="https://i.ibb.co/Yc1WxxX/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-21-03-03.pn" width: "414" height="896">
+[](https://i.ibb.co/Yc1WxxX/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-21-03-03.png)
 
 ## Getting Started
 This package is for setting a gradient as background for a scaffold. You have no disadvantages and can use all the functionalities of a scaffold.
