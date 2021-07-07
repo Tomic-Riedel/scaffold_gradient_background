@@ -1,4 +1,4 @@
-# Scaffold Gradient Background
+# Gradient Scaffold
 A fully customizable scaffold widget, but which can take a gradient as its background.
 ## Screenshots
 ![](https://i.ibb.co/Nt5tKcJ/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-20-52-32.png)
@@ -24,7 +24,7 @@ import 'package:scaffold_gradient_background/scaffold_gradient_background.dart';
 
 Now create a GradientScaffold widget and customize it to your liking!
 ```dart
-ScaffoldGradientBackground(
+GradientScaffold(
       gradient: LinearGradient(
         begin: Alignment.bottomLeft,
         end: Alignment.topRight,

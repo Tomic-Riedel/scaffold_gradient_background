@@ -1,0 +1,18 @@
+name: scaffold_gradient_background
+description: A scaffold where you can specify a gradient as background.
+version: 1.0.0
+homepage: https://github.com/Tomic-Riedel/gradient_scaffold
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
