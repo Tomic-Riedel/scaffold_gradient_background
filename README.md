@@ -14,7 +14,7 @@ This package is for setting a gradient as background for a scaffold. You have no
 Add this package to pubspec.yaml:
 ```dart
 dependencies:
-	gradient_scaffold: ^1.0.0
+  gradient_scaffold: ^1.0.0
 ```
 
 Import the package in the class in which you want to use the scaffold with gradient:
@@ -25,29 +25,27 @@ import 'package:gradient_scaffold/gradient_scaffold.dart';
 Now create a GradientScaffold widget and customize it to your liking!
 ```dart
 GradientScaffold(
-	gradient: LinearGradient( //You can use any gradient
-		begin: Alignment.bottomLeft,
-		end: Alignment.topRight,
-		colors: [
-			Color(0xFF8EC5FC),
-			Color(0xFFE0C3FC),
-		],
-	),
-
-	//The widget works just like a normal scaffold, except that you can use a gradient as background.
-	appBar:  AppBar(
-		title:  Text('Linear Gradient Example'),
-	),
-	body:  Center(
-		child:  Text(
-			'Hello ^^',
-			style:  TextStyle(
-				color:  Colors.white,
-				fontSize:  30,
-			),
-		),
-	),
-);
+      gradient: LinearGradient(
+        begin: Alignment.bottomLeft,
+        end: Alignment.topRight,
+        colors: [
+          Color(0xFF8EC5FC),
+          Color(0xFFE0C3FC),
+        ],
+      ),
+      appBar: AppBar(
+        title: Text('Linear Gradient Example'),
+      ),
+      body: Center(
+        child: Text(
+          'Hello ^^',
+          style: TextStyle(
+            color: Colors.white,
+            fontSize: 30,
+          ),
+        ),
+      ),
+    );
 ```
 That's about it. You don't need to do much more and as you can see, it works perfectly!
 
