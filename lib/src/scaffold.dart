@@ -244,10 +244,10 @@ class ScaffoldGradientBackground extends StatelessWidget {
   final List<Widget>? persistentFooterButtons;
 
   /// Optional callback that is called when the [Scaffold.drawer] is opened or closed.
-  final void Function(bool)? onDrawerChanged;
+  final DrawerCallback? onDrawerChanged;
 
   /// Optional callback that is called when the [Scaffold.endDrawer] is opened or closed.
-  final void Function(bool) onEndDrawerChanged;
+  final DrawerCallback? onEndDrawerChanged;
 
   /// If true the [body] and the scaffold's floating widgets should size
   /// themselves to avoid the onscreen keyboard whose height is defined by the
