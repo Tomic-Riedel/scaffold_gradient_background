@@ -21,7 +21,7 @@ This package is for setting a gradient as background for a scaffold. You have no
 Add this package to pubspec.yaml:
 ```yaml
 dependencies:
-  scaffold_gradient_background: ^1.0.0
+  scaffold_gradient_background:
 ```
 
 Import the package in the class in which you want to use the scaffold with gradient:
