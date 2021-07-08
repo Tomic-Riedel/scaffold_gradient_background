@@ -1,4 +1,11 @@
+
 # Gradient Scaffold
+
+[![pub](https://img.shields.io/pub/v/scaffold_gradient_background.svg)](https://pub.dev/packages/scaffold_gradient_background)
+[![github](https://img.shields.io/badge/platform-flutter-ff69b4.svg)](https://github.com/Tomic-Riedel/scaffold_gradient_background)
+[![license](https://img.shields.io/github/license/Tomic-Riedel/scaffold_gradient_background.svg)](https://github.com/Tomic-Riedel/scaffold_gradient_background/blob/main/LICENSE)
+
+
 A fully customizable scaffold widget, but which can take a gradient as its background.
 ## Screenshots
 ![](https://i.ibb.co/Nt5tKcJ/Simulator-Screen-Shot-i-Phone-12-Pro-2021-07-07-at-20-52-32.png)
