@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.0.3+1
+
+* README improved
+
 ## 1.0.3
 
 * bug fixes
