@@ -1,6 +1,6 @@
 name: scaffold_gradient_background
 description: A widget that works like a scaffold, except that you can set a gradient as background.
-version: 1.0.3
+version: 1.0.3+1
 homepage: https://github.com/Tomic-Riedel/gradient_scaffold
 
 environment:
